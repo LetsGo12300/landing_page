@@ -129,3 +129,24 @@ button{
     max-width: 200px;
     margin: 30px;
 }
+
+.section-3{
+    display: flex;
+    background-color: #E5E7EB;
+    flex-direction: column;
+    padding: 100px 450px;
+}
+
+#quote-end{
+    text-align: right;
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#quote-container{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
