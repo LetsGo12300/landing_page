@@ -1,13 +1,13 @@
-# landing_page
-Landing Page Website
+## Landing Page Website 
+A landing page website made with HTML and CSS
 
-Special thanks: 
-- Photo by Alexander Kovalev from Pexels https://www.pexels.com/photo/pattern-texture-wall-design-1585710/
+### Special thanks to: 
+- [Photo](https://www.pexels.com/photo/pattern-texture-wall-design-1585710/) by Alexander Kovalev
 
-- Photo by Hiếu Hoàng: https://www.pexels.com/photo/selective-focus-photography-of-pink-petaled-flower-in-bloom-1179863/
+- [Photo](https://www.pexels.com/photo/selective-focus-photography-of-pink-petaled-flower-in-bloom-1179863/) by Hiếu Hoàng
 
-- Photo by Petr Ganaj from Pexels https://www.pexels.com/photo/close-up-photo-of-blue-flower-6504730/
+- [Photo](https://www.pexels.com/photo/close-up-photo-of-blue-flower-6504730/) by Petr Ganaj
 
-- Photo by Skitterphoto: https://www.pexels.com/photo/photo-of-sunflower-589698/
+- [Photo](https://www.pexels.com/photo/photo-of-sunflower-589698/) by Skitterphoto
 
-- Photo by Snapwire: https://www.pexels.com/photo/macro-shot-of-pink-tulip-flower-584320/
+- [Photo](https://www.pexels.com/photo/close-up-photography-of-white-tulip-960780/) by  samer daboul
